@@ -1,0 +1,72 @@
+.dad {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    flex: 01rem;
+    border: solid grey;
+    font-size: small;
+    padding: 5px;
+
+
+}
+
+
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+
+.name p {
+    display: flex;
+
+}
+
+
+
+.flex-chat {
+    display: flex;
+    justify-content: center;
+}
+
+.chat {
+    background-color: #A491D2;
+    padding: 15px;
+}
+
+
+.contact img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgray;
+    flex: 50rem;
+
+
+}
+
+.image img {
+    height: 280px;
+
+
+}
